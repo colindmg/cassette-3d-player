@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unknown-property */
 import { OrbitControls } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
-import { Model } from "../public/models/cassette/Scene";
+import { Model } from "../public/models/cassettes/Scene";
 
 function App() {
   return (
